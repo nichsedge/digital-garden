@@ -21,9 +21,9 @@ Pembuatan [[Social Credit System]] di tingkat individu dan Sistem Organisasi Mas
 
 ### Latar Belakang
 
-- Infrastruktur sudah tersedia, namun belum dimanfaatkan secara optimal. Dengan jumlah masjid mencapai sekitar **800.000** di [[Indonesia]], masih banyak masjid yang belum aktif atau tidak memiliki kegiatan terkait teknologi dan keberlanjutan manusia. Sistem informasi masjid masih banyak yang dikelola secara manual meskipun sudah ada berbagai aplikasi yang dapat memudahkan dan mempercepat proses tersebut.
+- Infrastruktur sudah tersedia, namun belum dimanfaatkan secara optimal. Dengan jumlah masjid mencapai sekitar **800.000** di Indonesia, masih banyak masjid yang belum aktif atau tidak memiliki kegiatan terkait teknologi dan keberlanjutan manusia. Sistem informasi masjid masih banyak yang dikelola secara manual meskipun sudah ada berbagai aplikasi yang dapat memudahkan dan mempercepat proses tersebut.
 
-- Masjid, yang tersebar di seluruh [[Indonesia]], dapat menjadi tempat bagi seluruh elemen masyarakat, tanpa memandang agama. Di daerah non-Muslim atau di tempat tanpa masjid, ruang karang taruna atau ruang kosong yang nyaman dapat dijadikan alternatif untuk berkumpul.
+- Masjid, yang tersebar di seluruh Indonesia, dapat menjadi tempat bagi seluruh elemen masyarakat, tanpa memandang agama. Di daerah non-Muslim atau di tempat tanpa masjid, ruang karang taruna atau ruang kosong yang nyaman dapat dijadikan alternatif untuk berkumpul.
 
 - Masyarakat dengan jiwa sosial yang tinggi dan sering berkontribusi dalam kegiatan sedekah dapat menjadi dukungan yang signifikan untuk kelancaran program ini.
 
@@ -310,7 +310,7 @@ Reward digunakan sebagai stimulus atau dorongan agar semua pihak aktif berkontri
    ii. Detail kegiatan, timeline, dan jenis kegiatan yang tersedia
 
 12. **Peringkat Masjid di Daerah:**
-   i. Informasi tentang semua masjid di [[Indonesia]]
+   i. Informasi tentang semua masjid di Indonesia
    ii. Peringkat berdasarkan pembobotan kegiatan yang memajukan daerah, menggunakan ilmu statistika, dan sejenisnya
    iii. Ringkasan keuangan dari semua masjid
    iv. Kontak pihak manajemen masjid
@@ -346,7 +346,7 @@ Sistem ini mengakibatkan banyak individu terperangkap dalam rutinitas. Bagi yang
 
 Oleh karena itu, harapan saya adalah agar anggaran untuk pendidikan tidak dihambur-hamburkan dengan dasar pemaksaan. Saya ingin melihat bahwa belajar tidak perlu dibatasi oleh seragam atau persyaratan yang ketat. Belajar seharusnya memberikan perspektif kepada peserta didik bahwa banyak masalah yang ada di dunia ini, dan tugas mereka adalah mengembangkan potensi diri untuk mencari solusi atas berbagai permasalahan tersebut.
 
-Saya berharap ketika ada seseorang yang membutuhkan mentor untuk mempelajari suatu bidang, ada sistem yang memudahkan mereka untuk menemukan individu yang ahli di bidang tersebut. Selanjutnya, diharapkan masyarakat dapat lebih mengenal satu sama lain, meningkatkan aspek sosial, sehingga [[Indonesia]] tidak berubah menjadi negara yang cenderung individualistik dengan banyak masalah sosial seperti utang berbasis finansial, masalah kesehatan mental, prostitusi, kesenjangan sosial, dan lain sebagainya.
+Saya berharap ketika ada seseorang yang membutuhkan mentor untuk mempelajari suatu bidang, ada sistem yang memudahkan mereka untuk menemukan individu yang ahli di bidang tersebut. Selanjutnya, diharapkan masyarakat dapat lebih mengenal satu sama lain, meningkatkan aspek sosial, sehingga Indonesia tidak berubah menjadi negara yang cenderung individualistik dengan banyak masalah sosial seperti utang berbasis finansial, masalah kesehatan mental, prostitusi, kesenjangan sosial, dan lain sebagainya.
 
 - Setelah menyelesaikan kuliah di [[Universitas Indonesia]], saya menyadari bahwa banyak teman sekelas saya yang memiliki keahlian dalam berbagai bidang dan dapat memberikan kontribusi positif bagi masyarakat.
 
@@ -367,8 +367,8 @@ Jika ada yang merasa tidak membuang waktu, maka ini mungkin merupakan sindiran u
 - [Situs Simas Kementerian Agama](https://simas.kemenag.go.id/)
 - Aplikasi Manajemen Masjid di Playstore: "Masjid Kita" dan aplikasi lainnya ang sejenis
 - QS University
-- [[Social Credit System]] di China
-- Masjid Salman ITB, Masjid Jogokaryan, Himpunan Rohis Kota Bandung
+- [[Social Credit System]] di [[China]]
+- Masjid Salman ITB, Masjid Jogokaryan, [[Himpunan Rohis Kota Bandung]]
 - <https://play.google.com/store/apps/details?id=com.blessindonesia.masjidkukom>
 - <https://play.google.com/store/apps/details?id=com.halomasjiddkm>
 - Masjidkita : <https://play.google.com/store/apps/details?id=com.edu.edulearning>
