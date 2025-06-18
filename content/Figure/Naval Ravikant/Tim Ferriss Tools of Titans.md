@@ -1,3 +1,7 @@
+---
+date: 1970-01-01
+---
+
 # Tim Ferriss Tools of Titans
 
 ## Introduction to Tim Ferriss

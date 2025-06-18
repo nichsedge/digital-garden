@@ -1,3 +1,7 @@
+---
+date: 1970-01-01
+---
+
 # How The Economic Machine Works
 
 - The economy is a simple machine made up of transactions that drive economic activity.

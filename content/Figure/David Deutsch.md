@@ -1,7 +1,7 @@
 ---
+date: 1970-01-01
 tags: [science, philosophy]
 ---
-
 # David Deutsch
 
 ## Why It’s Good To Be Wrong

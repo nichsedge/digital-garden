@@ -1,3 +1,7 @@
+---
+date: 1970-01-01
+---
+
 # How to Angel Invest, Part 1
 
 Sure! Here’s a reformatted version focusing on core learning content related to angel investing:

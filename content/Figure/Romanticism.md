@@ -1,7 +1,7 @@
 ---
+date: 1970-01-01
 tags: [literature, philosophy]
 ---
-
 Abad 17-18
 liberté égalité fraternité
   

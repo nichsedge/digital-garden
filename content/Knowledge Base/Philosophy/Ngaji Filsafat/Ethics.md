@@ -1,8 +1,7 @@
 ---
+date: 1970-01-01
 publish_external: true
 ---
-
-
 ## [[Relativism]]
 - konvensionalisme :  
     sesuai konteks budaya atau sosial  

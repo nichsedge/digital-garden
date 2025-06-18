@@ -1,3 +1,7 @@
+---
+date: 1970-01-01
+---
+
 Copper, Uragawa, Mizutani, Kitami
   
 unbeknownst
