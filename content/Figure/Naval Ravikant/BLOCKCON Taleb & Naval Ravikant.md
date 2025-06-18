@@ -1,3 +1,7 @@
+---
+date: 1970-01-01
+---
+
 # BLOCKCON - Day 2 (Oct 11) - Fireside Chat: Nassim Nicholas Taleb & Naval Ravikant
 
 ### Key Concepts from Nassim Nicholas Taleb's Discussion on "Skin in the Game"

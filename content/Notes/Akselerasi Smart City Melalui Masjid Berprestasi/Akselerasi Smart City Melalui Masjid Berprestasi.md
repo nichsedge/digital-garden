@@ -1,5 +1,5 @@
 ---
-date: 2021-02-20"
+date: "2021-02-20"
 tags:
   - essay
   - muslim
@@ -31,7 +31,7 @@ Pembuatan [[Social Credit System]] di tingkat individu dan Sistem Organisasi Mas
 
 #### Alur Diagram Sederhana
 
-![flow_chart.png](flow_chart.png)
+![flow_chart](flow_chart.png)
 
 Penjelasan:
 

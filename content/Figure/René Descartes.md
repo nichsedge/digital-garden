@@ -1,7 +1,7 @@
 ---
+date: 1970-01-01
 tags: [philosophy, science]
 ---
-
 # **Dualisme & Descartes**
 Disebut sebagai filsuf modern pertama, pelopor **rasionalisme**
 Descartes melawan pendapat skeptis radikal

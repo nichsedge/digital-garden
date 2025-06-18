@@ -1,3 +1,7 @@
+---
+date: 1970-01-01
+---
+
 ### Jerzy Gregorek Interview Highlights
 
 **Background of Jerzy Gregorek**

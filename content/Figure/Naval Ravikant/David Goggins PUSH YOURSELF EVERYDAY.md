@@ -1,3 +1,7 @@
+---
+date: 1970-01-01
+---
+
 # David Goggins: PUSH YOURSELF EVERYDAY — Morning Motivation
 
 ### Key Concepts on Self-Talk and Visualization

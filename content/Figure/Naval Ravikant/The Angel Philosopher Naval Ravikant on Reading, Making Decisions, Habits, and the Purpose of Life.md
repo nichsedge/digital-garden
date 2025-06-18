@@ -1,3 +1,7 @@
+---
+date: 1970-01-01
+---
+
 # The Angel Philosopher Naval Ravikant on Reading, Making Decisions, Habits, and the Purpose of Life
 
 - **Learning Resources**: 
