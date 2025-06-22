@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Digital Graveyard",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -17,7 +17,7 @@ const config: QuartzConfig = {
       provider: 'google', tagId: 'G-80RE1EXYVP'
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "ichsanulamal.github.io/digital-garden",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
