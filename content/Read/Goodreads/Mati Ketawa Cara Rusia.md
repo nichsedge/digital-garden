@@ -1,8 +1,11 @@
 ---
-title: "Mati Ketawa Cara Rusia"
-author: "Z. Dolgopolova"
-date: "2020/08/23"
+title: Mati Ketawa Cara Rusia
+author: Z. Dolgopolova
+date: '2020-08-23'
+tags:
+- book
 ---
+
 
 # Mati Ketawa Cara Rusia
 
@@ -11,25 +14,23 @@ date: "2020/08/23"
 **Date Read:**   
 **Bookshelves:** 
 
-- author_lf: "Dolgopolova, Z."
-- additional_authors: "Batara Sakti, Abdurrahman Wahid"
-- isbn: ""
-- isbn13: ""
-- publisher: "PT Pustaka Grafitipers"
-- binding: "Paperback"
-- pages: 129
-- year_published: 1986
-- original_publication_year: 1982
-- date_read: ""
-- date_added: "2020/08/23"
-- my_rating: 0
-- average_rating: 3.79
-- bookshelves: ""
-- exclusive_shelf: "read"
-- read_count: 1
-- owned_copies: 0
-- spoiler: ""
-- private_notes: ""
+**Additional Authors:** Batara Sakti, Abdurrahman Wahid  
+**ISBN:**   
+**ISBN13:**   
+**Publisher:** PT Pustaka Grafitipers  
+**Binding:** Paperback  
+**Number of Pages:** 129  
+**Year Published:** 1986  
+**Original Publication Year:** 1982  
+**Date Read:**   
+**Date Added:** 2020-08-23 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 3.79  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 

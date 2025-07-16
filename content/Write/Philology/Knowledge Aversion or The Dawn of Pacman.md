@@ -6,11 +6,11 @@ title: Knowledge Aversion or The Dawn of Pacman
 publish_external: true
 ---
   
-![pacman](https://catatankemalasan.files.wordpress.com/2023/07/4324eef5-94c3-40fc-9beb-d3346f0f2ac2.jpg)  
+![[4324eef5-94c3-40fc-9beb-d3346f0f2ac2.jpg]]  
   
 ### Knowledge Aversion or The Dawn of [[Pacman]]  
   
-> Prompt: make a text/rhyme by theme the dawn of ":v" emoticon with will hunting's fixed mindset, [[Peter Thiel]]'s frivolity, zizek's indefinite pessimism, and end it with a little bit of [[Emha Ainun Nadjib|cak nun]]'s faith style.  
+> Prompt: make a text/rhyme by theme the dawn of ":v" emoticon with will hunting's fixed mindset, [[Tags/Figure/Peter Thiel]]'s frivolity, zizek's indefinite pessimism, and end it with a little bit of [[Emha Ainun Nadjib|cak nun]]'s faith style.  
   
 What's next after Faustian bargaining  
 The antics of Silenus  
@@ -57,34 +57,7 @@ tazkiyatunnafs,
 [[Music]] and dance 5 times a day for a lifetime,   
 wallahu a'lam.  
   
----  
-  
-As the dawn breaks, I see a ":v" emoticon,  
-A symbol of fixed mindset that's hard to move on,  
-Will Hunting held onto his old ways,  
-Unwilling to see new perspectives, to his own dismay.  
-  
-[[Peter Thiel]]'s frivolity was his guiding light,  
-Believing in success without any foresight,  
-But his heedless approach left him unprepared,  
-A lesson to learn, if he ever dared.  
-  
-[[Slavoj Žižek|Zizek]]'s indefinite pessimism fills the air,  
-No hope for the future, no vision to share,  
-But in the midst of his gloom, there's a ray of hope,  
-Cak Nun's faith style, a way to cope.  
-  
-For when all seems lost and darkness prevails,  
-Cak Nun reminds us to set our sails,  
-With faith in our hearts and a purpose in mind,  
-We can navigate any storm and leave doubts behind.  
-  
-So as the ":v" emoticon fades from view,  
-Let's embrace growth, let's seek the new,  
-With faith, purpose, and hope on our side,  
-We'll find the light that shines bright and wide.  
-  
----  
+---
   
 Upaya untuk memberdayakan, mengurangi kesenjangan dan penderitaan, melalui sains, itu sendiri termasuk ke dalam kategori faustian bargain, konsumsi buah huldi.   
   

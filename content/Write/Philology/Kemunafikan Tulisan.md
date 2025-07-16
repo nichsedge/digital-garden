@@ -9,9 +9,9 @@ title: Kemunafikan Tulisan
   
 ### Kemunafikan Tulisan  
   
-![kemunafikan_tulisan](kemunafikan_tulisan.jpg)  
+![[kemunafikan_tulisan.jpg]]  
   
-Pernahkah kalian merasakan ?    
+Pernahkah kalian merasakan?    
 Saat bersenang senang    
 Di belahan bumi yg lain,    
 Spesies kita yang menderita    
@@ -22,7 +22,7 @@ Tertawa kesana kemari
 Kita menutup mata akan kesedihannya    
 Kita dibuat tuli akan teriakannya    
     
-Dimanakah letak kebinatangan ?    
+Dimanakah letak kebinatangan?    
 Dikala kita berusaha memenuhi materi    
 Dikala kita mencari kepuasan pribadi    
 Dikala kita menikmati pemandangan pagi hari    

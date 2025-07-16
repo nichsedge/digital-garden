@@ -1,8 +1,11 @@
 ---
-title: "The Power Law: Venture Capital and the Making of the New Future"
-author: "Sebastian Mallaby"
-date: "2025/04/30"
+title: 'The Power Law: Venture Capital and the Making of the New Future'
+author: Sebastian Mallaby
+date: '2025-04-30'
+tags:
+- book
 ---
+
 
 # The Power Law: Venture Capital and the Making of the New Future
 
@@ -11,25 +14,23 @@ date: "2025/04/30"
 **Date Read:**   
 **Bookshelves:** to-read
 
-- author_lf: "Mallaby, Sebastian"
-- additional_authors: ""
-- isbn: "052555999X"
-- isbn13: "9780525559993"
-- publisher: "Penguin Press"
-- binding: "Hardcover"
-- pages: 496
-- year_published: 2022
-- original_publication_year: 2022
-- date_read: ""
-- date_added: "2025/04/30"
-- my_rating: 0
-- average_rating: 4.43
-- bookshelves: "to-read"
-- exclusive_shelf: "to-read"
-- read_count: 0
-- owned_copies: 0
-- spoiler: ""
-- private_notes: ""
+**Additional Authors:**   
+**ISBN:** 052555999X  
+**ISBN13:** 9780525559993  
+**Publisher:** Penguin Press  
+**Binding:** Hardcover  
+**Number of Pages:** 496  
+**Year Published:** 2022  
+**Original Publication Year:** 2022  
+**Date Read:**   
+**Date Added:** 2025-04-30 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 4.43  
+**Bookshelves:** to-read  
+**Exclusive Shelf:** to-read  
+**Read Count:** 0  
+**Owned Copies:** 0
+
 
 ## Review
 

@@ -6,6 +6,7 @@ tags:
   - sql
   - postgres
   - web-scraping
+  - journal
 hideSummary: true
 draft: false
 publish_external: true
@@ -25,9 +26,9 @@ publish_external: true
 
 ## cara orang hoream milih
 
-screening kriteria > OSINT satu-satu > hitung kancing
+screening kriteria > [[Open Source Intelligence|OSINT]] satu-satu > hitung kancing
 
-![infopemilu-kpu](infopemilu-kpu.png)
+![[infopemilu-kpu.png]]
 
 
 

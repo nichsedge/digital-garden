@@ -1,8 +1,11 @@
 ---
-title: "The Almanack of Naval Ravikant: A Guide to Wealth and Happiness"
-author: "Eric Jorgenson"
-date: "2021/08/28"
+title: 'The Almanack of Naval Ravikant: A Guide to Wealth and Happiness'
+author: Eric Jorgenson
+date: '2021-08-28'
+tags:
+- book
 ---
+
 
 # The Almanack of Naval Ravikant: A Guide to Wealth and Happiness
 
@@ -11,25 +14,23 @@ date: "2021/08/28"
 **Date Read:**   
 **Bookshelves:** 
 
-- author_lf: "Jorgenson, Eric"
-- additional_authors: ""
-- isbn: ""
-- isbn13: "9781544514208"
-- publisher: "Magrathea Publishing"
-- binding: "Kindle Edition"
-- pages: 244
-- year_published: 2020
-- original_publication_year: 2020
-- date_read: ""
-- date_added: "2021/08/28"
-- my_rating: 2
-- average_rating: 4.41
-- bookshelves: ""
-- exclusive_shelf: "read"
-- read_count: 1
-- owned_copies: 0
-- spoiler: ""
-- private_notes: ""
+**Additional Authors:**   
+**ISBN:**   
+**ISBN13:** 9781544514208  
+**Publisher:** Magrathea Publishing  
+**Binding:** Kindle Edition  
+**Number of Pages:** 244  
+**Year Published:** 2020  
+**Original Publication Year:** 2020  
+**Date Read:**   
+**Date Added:** 2021-08-28 00:00:00  
+**My Rating:** 2  
+**Average Rating:** 4.41  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 

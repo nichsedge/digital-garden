@@ -1,8 +1,11 @@
 ---
-title: "Animal Farm"
-author: "George Orwell"
-date: "2020/11/23"
+title: Animal Farm
+author: George Orwell
+date: '2020-11-23'
+tags:
+- book
 ---
+
 
 # Animal Farm
 
@@ -11,25 +14,23 @@ date: "2020/11/23"
 **Date Read:**   
 **Bookshelves:** 
 
-- author_lf: "Orwell, George"
-- additional_authors: "Russell Baker, C.M. Woodhouse"
-- isbn: "0451526341"
-- isbn13: "9780451526342"
-- publisher: "Signet Classics"
-- binding: "Mass Market Paperback"
-- pages: 141
-- year_published: 1996
-- original_publication_year: 1945
-- date_read: ""
-- date_added: "2020/11/23"
-- my_rating: 0
-- average_rating: 4.01
-- bookshelves: ""
-- exclusive_shelf: "read"
-- read_count: 1
-- owned_copies: 0
-- spoiler: ""
-- private_notes: ""
+**Additional Authors:** Russell Baker, C.M. Woodhouse  
+**ISBN:** 0451526341  
+**ISBN13:** 9780451526342  
+**Publisher:** Signet Classics  
+**Binding:** Mass Market Paperback  
+**Number of Pages:** 141  
+**Year Published:** 1996  
+**Original Publication Year:** 1945  
+**Date Read:**   
+**Date Added:** 2020-11-23 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 4.01  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 

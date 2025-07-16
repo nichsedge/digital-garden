@@ -1,8 +1,11 @@
 ---
-title: "9 Summers 10 Autumns"
-author: "Iwan Setyawan"
-date: "2018/09/16"
+title: 9 Summers 10 Autumns
+author: Iwan Setyawan
+date: '2018-09-16'
+tags:
+- book
 ---
+
 
 # 9 Summers 10 Autumns
 
@@ -11,25 +14,23 @@ date: "2018/09/16"
 **Date Read:**   
 **Bookshelves:** 
 
-- author_lf: "Setyawan, Iwan"
-- additional_authors: ""
-- isbn: "9792267662"
-- isbn13: "9789792267662"
-- publisher: "Gramedia Pustaka Utama"
-- binding: "Paperback"
-- pages: 238
-- year_published: 2011
-- original_publication_year: 0
-- date_read: ""
-- date_added: "2018/09/16"
-- my_rating: 3
-- average_rating: 3.53
-- bookshelves: ""
-- exclusive_shelf: "read"
-- read_count: 1
-- owned_copies: 0
-- spoiler: ""
-- private_notes: ""
+**Additional Authors:**   
+**ISBN:** 9792267662  
+**ISBN13:** 9789792267662  
+**Publisher:** Gramedia Pustaka Utama  
+**Binding:** Paperback  
+**Number of Pages:** 238  
+**Year Published:** 2011  
+**Original Publication Year:**   
+**Date Read:**   
+**Date Added:** 2018-09-16 00:00:00  
+**My Rating:** 3  
+**Average Rating:** 3.53  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 

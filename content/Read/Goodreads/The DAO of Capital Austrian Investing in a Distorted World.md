@@ -1,8 +1,11 @@
 ---
-title: "The DAO of Capital: Austrian Investing in a Distorted World"
-author: "Mark Spitznagel"
-date: "2025/04/28"
+title: 'The DAO of Capital: Austrian Investing in a Distorted World'
+author: Mark Spitznagel
+date: '2025-04-28'
+tags:
+- book
 ---
+
 
 # The DAO of Capital: Austrian Investing in a Distorted World
 
@@ -11,25 +14,23 @@ date: "2025/04/28"
 **Date Read:**   
 **Bookshelves:** 
 
-- author_lf: "Spitznagel, Mark"
-- additional_authors: "Ron Paul"
-- isbn: "1118416678"
-- isbn13: "9781118416679"
-- publisher: "Wiley"
-- binding: "Kindle Edition"
-- pages: 368
-- year_published: 2013
-- original_publication_year: 2013
-- date_read: ""
-- date_added: "2025/04/28"
-- my_rating: 0
-- average_rating: 3.87
-- bookshelves: ""
-- exclusive_shelf: "read"
-- read_count: 1
-- owned_copies: 0
-- spoiler: ""
-- private_notes: ""
+**Additional Authors:** Ron Paul  
+**ISBN:** 1118416678  
+**ISBN13:** 9781118416679  
+**Publisher:** Wiley  
+**Binding:** Kindle Edition  
+**Number of Pages:** 368  
+**Year Published:** 2013  
+**Original Publication Year:** 2013  
+**Date Read:**   
+**Date Added:** 2025-04-28 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 3.87  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 
