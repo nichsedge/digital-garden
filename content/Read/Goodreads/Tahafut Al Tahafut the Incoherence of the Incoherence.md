@@ -1,8 +1,11 @@
 ---
-title: "Tahafut Al-Tahafut (the Incoherence of the Incoherence)"
-author: "ibn Rushd"
-date: "2020/08/23"
+title: Tahafut Al-Tahafut (the Incoherence of the Incoherence)
+author: ibn Rushd
+date: '2020-08-23'
+tags:
+- book
 ---
+
 
 # Tahafut Al-Tahafut (the Incoherence of the Incoherence)
 
@@ -11,25 +14,23 @@ date: "2020/08/23"
 **Date Read:**   
 **Bookshelves:** to-read
 
-- author_lf: "Rushd, ibn"
-- additional_authors: ""
-- isbn: "1546851992"
-- isbn13: "9781546851998"
-- publisher: "Createspace Independent Publishing Platform"
-- binding: "Paperback"
-- pages: 0
-- year_published: 2017
-- original_publication_year: 2008
-- date_read: ""
-- date_added: "2020/08/23"
-- my_rating: 0
-- average_rating: 4.12
-- bookshelves: "to-read"
-- exclusive_shelf: "to-read"
-- read_count: 0
-- owned_copies: 0
-- spoiler: ""
-- private_notes: ""
+**Additional Authors:**   
+**ISBN:** 1546851992  
+**ISBN13:** 9781546851998  
+**Publisher:** Createspace Independent Publishing Platform  
+**Binding:** Paperback  
+**Number of Pages:**   
+**Year Published:** 2017  
+**Original Publication Year:** 2008  
+**Date Read:**   
+**Date Added:** 2020-08-23 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 4.12  
+**Bookshelves:** to-read  
+**Exclusive Shelf:** to-read  
+**Read Count:** 0  
+**Owned Copies:** 0
+
 
 ## Review
 

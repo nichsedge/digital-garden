@@ -1,8 +1,11 @@
 ---
-title: "Hujan Bulan Juni"
-author: "Sapardi Djoko Damono"
-date: "2019/07/19"
+title: Hujan Bulan Juni
+author: Sapardi Djoko Damono
+date: '2019-07-19'
+tags:
+- book
 ---
+
 
 # Hujan Bulan Juni
 
@@ -11,25 +14,23 @@ date: "2019/07/19"
 **Date Read:**   
 **Bookshelves:** 
 
-- author_lf: "Damono, Sapardi Djoko"
-- additional_authors: ""
-- isbn: "6020318435"
-- isbn13: "9786020318431"
-- publisher: "Gramedia Pustaka Utama"
-- binding: "Paperback"
-- pages: 144
-- year_published: 2015
-- original_publication_year: 2015
-- date_read: ""
-- date_added: "2019/07/19"
-- my_rating: 3
-- average_rating: 3.73
-- bookshelves: ""
-- exclusive_shelf: "read"
-- read_count: 1
-- owned_copies: 0
-- spoiler: ""
-- private_notes: ""
+**Additional Authors:**   
+**ISBN:** 6020318435  
+**ISBN13:** 9786020318431  
+**Publisher:** Gramedia Pustaka Utama  
+**Binding:** Paperback  
+**Number of Pages:** 144  
+**Year Published:** 2015  
+**Original Publication Year:** 2015  
+**Date Read:**   
+**Date Added:** 2019-07-19 00:00:00  
+**My Rating:** 3  
+**Average Rating:** 3.73  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 

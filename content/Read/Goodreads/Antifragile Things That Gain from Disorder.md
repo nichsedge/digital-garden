@@ -1,8 +1,11 @@
 ---
-title: "Antifragile: Things That Gain from Disorder"
-author: "Nassim Nicholas Taleb"
-date: "2021/10/23"
+title: 'Antifragile: Things That Gain from Disorder'
+author: Nassim Nicholas Taleb
+date: '2021-10-23'
+tags:
+- book
 ---
+
 
 # Antifragile: Things That Gain from Disorder
 
@@ -11,25 +14,23 @@ date: "2021/10/23"
 **Date Read:**   
 **Bookshelves:** to-read
 
-- author_lf: "Taleb, Nassim Nicholas"
-- additional_authors: ""
-- isbn: "1400067820"
-- isbn13: "9781400067824"
-- publisher: "Random House"
-- binding: "Hardcover"
-- pages: 426
-- year_published: 2012
-- original_publication_year: 2012
-- date_read: ""
-- date_added: "2021/10/23"
-- my_rating: 0
-- average_rating: 4.10
-- bookshelves: "to-read"
-- exclusive_shelf: "to-read"
-- read_count: 0
-- owned_copies: 0
-- spoiler: ""
-- private_notes: ""
+**Additional Authors:**   
+**ISBN:** 1400067820  
+**ISBN13:** 9781400067824  
+**Publisher:** Random House  
+**Binding:** Hardcover  
+**Number of Pages:** 426  
+**Year Published:** 2012  
+**Original Publication Year:** 2012  
+**Date Read:**   
+**Date Added:** 2021-10-23 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 4.10  
+**Bookshelves:** to-read  
+**Exclusive Shelf:** to-read  
+**Read Count:** 0  
+**Owned Copies:** 0
+
 
 ## Review
 

@@ -1,8 +1,11 @@
 ---
-title: "Zero to One: Notes on Startups, or How to Build the Future"
-author: "Peter Thiel"
-date: "2020/08/23"
+title: 'Zero to One: Notes on Startups, or How to Build the Future'
+author: Peter Thiel
+date: '2020-08-23'
+tags:
+- book
 ---
+
 
 # Zero to One: Notes on Startups, or How to Build the Future
 
@@ -11,25 +14,23 @@ date: "2020/08/23"
 **Date Read:**   
 **Bookshelves:** 
 
-- author_lf: "Thiel, Peter"
-- additional_authors: "Blake  Masters"
-- isbn: "0804139296"
-- isbn13: "9780804139298"
-- publisher: "Crown Currency"
-- binding: "Hardcover"
-- pages: 195
-- year_published: 2014
-- original_publication_year: 2014
-- date_read: ""
-- date_added: "2020/08/23"
-- my_rating: 0
-- average_rating: 4.15
-- bookshelves: ""
-- exclusive_shelf: "read"
-- read_count: 1
-- owned_copies: 0
-- spoiler: ""
-- private_notes: ""
+**Additional Authors:** Blake  Masters  
+**ISBN:** 0804139296  
+**ISBN13:** 9780804139298  
+**Publisher:** Crown Currency  
+**Binding:** Hardcover  
+**Number of Pages:** 195  
+**Year Published:** 2014  
+**Original Publication Year:** 2014  
+**Date Read:**   
+**Date Added:** 2020-08-23 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 4.15  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 

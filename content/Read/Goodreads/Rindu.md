@@ -1,8 +1,11 @@
 ---
-title: "Rindu"
-author: "Tere Liye"
-date: "2018/09/16"
+title: Rindu
+author: Tere Liye
+date: '2018-09-16'
+tags:
+- book
 ---
+
 
 # Rindu
 
@@ -11,25 +14,23 @@ date: "2018/09/16"
 **Date Read:**   
 **Bookshelves:** 
 
-- author_lf: "Liye, Tere"
-- additional_authors: ""
-- isbn: "6028997900"
-- isbn13: "9786028997904"
-- publisher: "Penerbit Republika"
-- binding: "Paperback"
-- pages: 544
-- year_published: 2014
-- original_publication_year: 2014
-- date_read: ""
-- date_added: "2018/09/16"
-- my_rating: 0
-- average_rating: 4.28
-- bookshelves: ""
-- exclusive_shelf: "read"
-- read_count: 1
-- owned_copies: 0
-- spoiler: ""
-- private_notes: ""
+**Additional Authors:**   
+**ISBN:** 6028997900  
+**ISBN13:** 9786028997904  
+**Publisher:** Penerbit Republika  
+**Binding:** Paperback  
+**Number of Pages:** 544  
+**Year Published:** 2014  
+**Original Publication Year:** 2014  
+**Date Read:**   
+**Date Added:** 2018-09-16 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 4.28  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 

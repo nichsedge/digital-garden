@@ -1,8 +1,11 @@
 ---
-title: "No Longer Human"
-author: "Osamu Dazai"
-date: "2022/07/25"
+title: No Longer Human
+author: Osamu Dazai
+date: '2022-07-25'
+tags:
+- book
 ---
+
 
 # No Longer Human
 
@@ -11,25 +14,23 @@ date: "2022/07/25"
 **Date Read:**   
 **Bookshelves:** 
 
-- author_lf: "Dazai, Osamu"
-- additional_authors: "Donald Keene"
-- isbn: ""
-- isbn13: ""
-- publisher: "New Directions"
-- binding: "Paperback"
-- pages: 176
-- year_published: 1958
-- original_publication_year: 1948
-- date_read: ""
-- date_added: "2022/07/25"
-- my_rating: 0
-- average_rating: 3.96
-- bookshelves: ""
-- exclusive_shelf: "read"
-- read_count: 1
-- owned_copies: 0
-- spoiler: ""
-- private_notes: ""
+**Additional Authors:** Donald Keene  
+**ISBN:**   
+**ISBN13:**   
+**Publisher:** New Directions  
+**Binding:** Paperback  
+**Number of Pages:** 176  
+**Year Published:** 1958  
+**Original Publication Year:** 1948  
+**Date Read:**   
+**Date Added:** 2022-07-25 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 3.96  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 

@@ -1,8 +1,11 @@
 ---
-title: "Liar's Poker"
-author: "Michael   Lewis"
-date: "2021/08/23"
+title: Liar's Poker
+author: Michael   Lewis
+date: '2021-08-23'
+tags:
+- book
 ---
+
 
 # Liar's Poker
 
@@ -11,25 +14,23 @@ date: "2021/08/23"
 **Date Read:**   
 **Bookshelves:** 
 
-- author_lf: "Lewis, Michael"
-- additional_authors: ""
-- isbn: "039333869X"
-- isbn13: "9780393338690"
-- publisher: "W. W. Norton & Company"
-- binding: "Paperback"
-- pages: 310
-- year_published: 2010
-- original_publication_year: 1989
-- date_read: ""
-- date_added: "2021/08/23"
-- my_rating: 0
-- average_rating: 4.15
-- bookshelves: ""
-- exclusive_shelf: "read"
-- read_count: 1
-- owned_copies: 0
-- spoiler: ""
-- private_notes: ""
+**Additional Authors:**   
+**ISBN:** 039333869X  
+**ISBN13:** 9780393338690  
+**Publisher:** W. W. Norton & Company  
+**Binding:** Paperback  
+**Number of Pages:** 310  
+**Year Published:** 2010  
+**Original Publication Year:** 1989  
+**Date Read:**   
+**Date Added:** 2021-08-23 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 4.15  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 

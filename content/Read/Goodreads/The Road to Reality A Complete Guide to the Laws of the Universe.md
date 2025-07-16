@@ -1,8 +1,11 @@
 ---
-title: "The Road to Reality: A Complete Guide to the Laws of the Universe"
-author: "Roger Penrose"
-date: "2020/10/29"
+title: 'The Road to Reality: A Complete Guide to the Laws of the Universe'
+author: Roger Penrose
+date: '2020-10-29'
+tags:
+- book
 ---
+
 
 # The Road to Reality: A Complete Guide to the Laws of the Universe
 
@@ -11,25 +14,23 @@ date: "2020/10/29"
 **Date Read:**   
 **Bookshelves:** to-read
 
-- author_lf: "Penrose, Roger"
-- additional_authors: ""
-- isbn: "0679776311"
-- isbn13: "9780679776314"
-- publisher: "Vintage"
-- binding: "Paperback"
-- pages: 1099
-- year_published: 2007
-- original_publication_year: 2004
-- date_read: ""
-- date_added: "2020/10/29"
-- my_rating: 0
-- average_rating: 4.16
-- bookshelves: "to-read"
-- exclusive_shelf: "to-read"
-- read_count: 0
-- owned_copies: 0
-- spoiler: ""
-- private_notes: ""
+**Additional Authors:**   
+**ISBN:** 0679776311  
+**ISBN13:** 9780679776314  
+**Publisher:** Vintage  
+**Binding:** Paperback  
+**Number of Pages:** 1099  
+**Year Published:** 2007  
+**Original Publication Year:** 2004  
+**Date Read:**   
+**Date Added:** 2020-10-29 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 4.16  
+**Bookshelves:** to-read  
+**Exclusive Shelf:** to-read  
+**Read Count:** 0  
+**Owned Copies:** 0
+
 
 ## Review
 

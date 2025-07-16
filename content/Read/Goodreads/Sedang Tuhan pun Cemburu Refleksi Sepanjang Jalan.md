@@ -1,8 +1,11 @@
 ---
-title: "Sedang Tuhan pun Cemburu: Refleksi Sepanjang Jalan"
-author: "Emha Ainun Nadjib"
-date: "2018/08/19"
+title: 'Sedang Tuhan pun Cemburu: Refleksi Sepanjang Jalan'
+author: Emha Ainun Nadjib
+date: '2018-08-19'
+tags:
+- book
 ---
+
 
 # Sedang Tuhan pun Cemburu: Refleksi Sepanjang Jalan
 
@@ -11,25 +14,23 @@ date: "2018/08/19"
 **Date Read:**   
 **Bookshelves:** 
 
-- author_lf: "Nadjib, Emha Ainun"
-- additional_authors: ""
-- isbn: "9798251067"
-- isbn13: "9789798251061"
-- publisher: "SiPRESS"
-- binding: "Paperback"
-- pages: 320
-- year_published: 1994
-- original_publication_year: 1994
-- date_read: ""
-- date_added: "2018/08/19"
-- my_rating: 4
-- average_rating: 4.13
-- bookshelves: ""
-- exclusive_shelf: "read"
-- read_count: 1
-- owned_copies: 0
-- spoiler: ""
-- private_notes: ""
+**Additional Authors:**   
+**ISBN:** 9798251067  
+**ISBN13:** 9789798251061  
+**Publisher:** SiPRESS  
+**Binding:** Paperback  
+**Number of Pages:** 320  
+**Year Published:** 1994  
+**Original Publication Year:** 1994  
+**Date Read:**   
+**Date Added:** 2018-08-19 00:00:00  
+**My Rating:** 4  
+**Average Rating:** 4.13  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 

@@ -4,6 +4,7 @@ date: 2024-02-11
 tags:
   - linux
   - tech
+  - journal
 hideSummary: true
 showToc: true
 UseHugoToc: true
@@ -16,7 +17,7 @@ since i ~~jobless~~ have free time, i distro hopping and here's my review:
 
 nice, but i am not familiar with dnf
 
-![fedora](fedora.png)
+![[fedora.png]]
 
 ## ubuntu 22.04.3 LTS 
 
@@ -58,7 +59,7 @@ i use arch btw 💀
 
 can't believe [[Pacman]] & yay is perfect
 
-![arch](arch.png)
+![[arch.png]]
 
 i love gnome <3
 

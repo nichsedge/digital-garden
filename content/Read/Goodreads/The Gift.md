@@ -1,8 +1,11 @@
 ---
-title: "The Gift"
-author: "Hafez"
-date: "2024/03/14"
+title: The Gift
+author: Hafez
+date: '2024-03-14'
+tags:
+- book
 ---
+
 
 # The Gift
 
@@ -11,25 +14,23 @@ date: "2024/03/14"
 **Date Read:**   
 **Bookshelves:** to-read
 
-- author_lf: "Hafez, Hafez"
-- additional_authors: "Daniel Ladinsky"
-- isbn: "0140195815"
-- isbn13: "9780140195811"
-- publisher: "Penguin Compass"
-- binding: "Paperback"
-- pages: 333
-- year_published: 1999
-- original_publication_year: 1999
-- date_read: ""
-- date_added: "2024/03/14"
-- my_rating: 0
-- average_rating: 4.40
-- bookshelves: "to-read"
-- exclusive_shelf: "to-read"
-- read_count: 0
-- owned_copies: 0
-- spoiler: ""
-- private_notes: ""
+**Additional Authors:** Daniel Ladinsky  
+**ISBN:** 0140195815  
+**ISBN13:** 9780140195811  
+**Publisher:** Penguin Compass  
+**Binding:** Paperback  
+**Number of Pages:** 333  
+**Year Published:** 1999  
+**Original Publication Year:** 1999  
+**Date Read:**   
+**Date Added:** 2024-03-14 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 4.40  
+**Bookshelves:** to-read  
+**Exclusive Shelf:** to-read  
+**Read Count:** 0  
+**Owned Copies:** 0
+
 
 ## Review
 

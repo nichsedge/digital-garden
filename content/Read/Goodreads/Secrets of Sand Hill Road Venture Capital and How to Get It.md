@@ -1,8 +1,11 @@
 ---
-title: "Secrets of Sand Hill Road: Venture Capital and How to Get It"
-author: "Scott Kupor"
-date: "2025/04/30"
+title: 'Secrets of Sand Hill Road: Venture Capital and How to Get It'
+author: Scott Kupor
+date: '2025-04-30'
+tags:
+- book
 ---
+
 
 # Secrets of Sand Hill Road: Venture Capital and How to Get It
 
@@ -11,25 +14,23 @@ date: "2025/04/30"
 **Date Read:**   
 **Bookshelves:** to-read
 
-- author_lf: "Kupor, Scott"
-- additional_authors: "Eric Ries"
-- isbn: "059308358X"
-- isbn13: "9780593083581"
-- publisher: "Portfolio"
-- binding: "Hardcover"
-- pages: 320
-- year_published: 2019
-- original_publication_year: 2019
-- date_read: ""
-- date_added: "2025/04/30"
-- my_rating: 0
-- average_rating: 4.23
-- bookshelves: "to-read"
-- exclusive_shelf: "to-read"
-- read_count: 0
-- owned_copies: 0
-- spoiler: ""
-- private_notes: ""
+**Additional Authors:** Eric Ries  
+**ISBN:** 059308358X  
+**ISBN13:** 9780593083581  
+**Publisher:** Portfolio  
+**Binding:** Hardcover  
+**Number of Pages:** 320  
+**Year Published:** 2019  
+**Original Publication Year:** 2019  
+**Date Read:**   
+**Date Added:** 2025-04-30 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 4.23  
+**Bookshelves:** to-read  
+**Exclusive Shelf:** to-read  
+**Read Count:** 0  
+**Owned Copies:** 0
+
 
 ## Review
 

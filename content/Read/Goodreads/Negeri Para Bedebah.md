@@ -1,8 +1,11 @@
 ---
-title: "Negeri Para Bedebah"
-author: "Tere Liye"
-date: "2018/09/16"
+title: Negeri Para Bedebah
+author: Tere Liye
+date: '2018-09-16'
+tags:
+- book
 ---
+
 
 # Negeri Para Bedebah
 
@@ -11,25 +14,23 @@ date: "2018/09/16"
 **Date Read:**   
 **Bookshelves:** 
 
-- author_lf: "Liye, Tere"
-- additional_authors: ""
-- isbn: "9792285520"
-- isbn13: "9789792285529"
-- publisher: "Gramedia Pustaka Utama"
-- binding: "Paperback"
-- pages: 440
-- year_published: 2012
-- original_publication_year: 2012
-- date_read: ""
-- date_added: "2018/09/16"
-- my_rating: 0
-- average_rating: 4.36
-- bookshelves: ""
-- exclusive_shelf: "read"
-- read_count: 1
-- owned_copies: 0
-- spoiler: ""
-- private_notes: ""
+**Additional Authors:**   
+**ISBN:** 9792285520  
+**ISBN13:** 9789792285529  
+**Publisher:** Gramedia Pustaka Utama  
+**Binding:** Paperback  
+**Number of Pages:** 440  
+**Year Published:** 2012  
+**Original Publication Year:** 2012  
+**Date Read:**   
+**Date Added:** 2018-09-16 00:00:00  
+**My Rating:** 0  
+**Average Rating:** 4.36  
+**Bookshelves:**   
+**Exclusive Shelf:** read  
+**Read Count:** 1  
+**Owned Copies:** 0
+
 
 ## Review
 
