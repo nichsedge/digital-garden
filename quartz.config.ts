@@ -17,7 +17,7 @@ const config: QuartzConfig = {
       provider: 'google', tagId: 'G-80RE1EXYVP'
     },
     locale: "en-US",
-    baseUrl: "ichsanulamal.github.io/digital-garden",
+    baseUrl: "nichsedge.github.io/digital-garden",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
