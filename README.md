@@ -1,4 +1,4 @@
-# 🪦 Digital Graveyard (Digital Garden)
+# 🪦 ByteCrypt (Digital Garden)
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — *Richard Hamming*
 
@@ -8,7 +8,7 @@
 [![Focus - Data & AI](https://img.shields.io/badge/Focus-Data%20%26%20AI-284b63?style=flat-square)](https://github.com/nichsedge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE.txt)
 
-Welcome to my personal digital garden, affectionately called the **Digital Graveyard**! This is a public space where I publish my notes, networked thoughts, and random tinkerings. It's a graveyard of ideas, specs, notes, and projects that are constantly being resurrected, updated, or left to rest in public. 
+Welcome to my personal digital garden, affectionately called the **ByteCrypt**! This is a public space where I publish my notes, networked thoughts, and random tinkerings. It's a graveyard of ideas, specs, notes, and projects that are constantly being resurrected, updated, or left to rest in public. 
 
 Explore the live site here: 🌐 **[nichsedge.github.io/digital-garden](https://nichsedge.github.io/digital-garden)**
 
