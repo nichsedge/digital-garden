@@ -1,15 +1,15 @@
 {
-  "name": "@jackyzha0/quartz",
-  "description": "🌱 publish your digital garden and notes as a website",
+  "name": "@nichsedge/digital-garden",
+  "description": "🌱 Personal digital garden and knowledge repository (\"Digital Graveyard\") of Ichsanul (nichsedge)",
   "private": true,
   "version": "4.5.1",
   "type": "module",
-  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
+  "author": "Ichsanul <nichsedge>",
   "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
+  "homepage": "https://nichsedge.github.io/digital-garden",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackyzha0/quartz.git"
+    "url": "https://github.com/nichsedge/digital-garden.git"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
