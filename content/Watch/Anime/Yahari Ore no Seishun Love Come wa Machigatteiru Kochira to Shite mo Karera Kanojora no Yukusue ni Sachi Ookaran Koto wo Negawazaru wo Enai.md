@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2013
 original_title: "やはり俺の青春ラブコメはまちがっている。「こちらとしても彼ら彼女らの行く末に幸多からんことを願わざるを得ない。」"
+status: "Completed"
+progress: 1
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2013
 - **Original title:** やはり俺の青春ラブコメはまちがっている。「こちらとしても彼ら彼女らの行く末に幸多からんことを願わざるを得ない。」
+- **Status:** Completed
+- **Progress:** 1
 - **Source:** anilist

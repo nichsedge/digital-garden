@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2007
 original_title: "ＣＬＡＮＮＡＤ -クラナド-"
+status: "Completed"
+progress: 23
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2007
 - **Original title:** ＣＬＡＮＮＡＤ -クラナド-
+- **Status:** Completed
+- **Progress:** 23
 - **Source:** anilist

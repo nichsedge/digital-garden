@@ -5,6 +5,9 @@ tags: [anime]
 publish_external: true
 year: 2019
 original_title: "3D彼女 リアルガール 2"
+status: "Completed"
+rating: 6
+progress: 12
 source: "anilist"
 ---
 
@@ -12,4 +15,7 @@ source: "anilist"
 
 - **Year:** 2019
 - **Original title:** 3D彼女 リアルガール 2
+- **Status:** Completed
+- **Rating:** 6
+- **Progress:** 12
 - **Source:** anilist

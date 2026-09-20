@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2015
 original_title: "ハイキュー!! セカンドシーズン"
+status: "Completed"
+progress: 25
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2015
 - **Original title:** ハイキュー!! セカンドシーズン
+- **Status:** Completed
+- **Progress:** 25
 - **Source:** anilist

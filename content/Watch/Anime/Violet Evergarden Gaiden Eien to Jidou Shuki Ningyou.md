@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2019
 original_title: "ヴァイオレット・エヴァーガーデン 外伝~永遠と自動手記人形~"
+status: "Completed"
+progress: 1
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2019
 - **Original title:** ヴァイオレット・エヴァーガーデン 外伝~永遠と自動手記人形~
+- **Status:** Completed
+- **Progress:** 1
 - **Source:** anilist

@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2013
 original_title: "黒子のバスケ 2nd SEASON"
+status: "Completed"
+progress: 25
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2013
 - **Original title:** 黒子のバスケ 2nd SEASON
+- **Status:** Completed
+- **Progress:** 25
 - **Source:** anilist

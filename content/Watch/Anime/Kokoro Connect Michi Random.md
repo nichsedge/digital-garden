@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2012
 original_title: "ココロコネクト ミチランダム"
+status: "Completed"
+progress: 4
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2012
 - **Original title:** ココロコネクト ミチランダム
+- **Status:** Completed
+- **Progress:** 4
 - **Source:** anilist

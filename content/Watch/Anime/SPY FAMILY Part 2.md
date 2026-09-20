@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2022
 original_title: "SPY×FAMILY 第2クール"
+status: "Watching"
+rating: 7
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2022
 - **Original title:** SPY×FAMILY 第2クール
+- **Status:** Watching
+- **Rating:** 7
 - **Source:** anilist

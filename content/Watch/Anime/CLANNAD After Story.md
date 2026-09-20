@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2008
 original_title: "ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー"
+status: "Completed"
+progress: 24
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2008
 - **Original title:** ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー
+- **Status:** Completed
+- **Progress:** 24
 - **Source:** anilist

@@ -5,6 +5,9 @@ tags: [anime]
 publish_external: true
 year: 2020
 original_title: "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～"
+status: "Completed"
+rating: 9
+progress: 12
 source: "anilist"
 ---
 
@@ -12,4 +15,7 @@ source: "anilist"
 
 - **Year:** 2020
 - **Original title:** かぐや様は告らせたい？～天才たちの恋愛頭脳戦～
+- **Status:** Completed
+- **Rating:** 9
+- **Progress:** 12
 - **Source:** anilist

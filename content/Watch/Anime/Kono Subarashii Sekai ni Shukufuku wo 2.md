@@ -5,6 +5,9 @@ tags: [anime]
 publish_external: true
 year: 2017
 original_title: "この素晴らしい世界に祝福を！2"
+status: "Completed"
+rating: 6
+progress: 10
 source: "anilist"
 ---
 
@@ -12,4 +15,7 @@ source: "anilist"
 
 - **Year:** 2017
 - **Original title:** この素晴らしい世界に祝福を！2
+- **Status:** Completed
+- **Rating:** 6
+- **Progress:** 10
 - **Source:** anilist

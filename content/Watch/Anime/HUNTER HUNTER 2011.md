@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2011
 original_title: "HUNTER×HUNTER (2011)"
+status: "Completed"
+progress: 148
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2011
 - **Original title:** HUNTER×HUNTER (2011)
+- **Status:** Completed
+- **Progress:** 148
 - **Source:** anilist

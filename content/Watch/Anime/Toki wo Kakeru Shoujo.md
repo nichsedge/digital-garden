@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2006
 original_title: "時をかける少女"
+status: "Completed"
+progress: 1
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2006
 - **Original title:** 時をかける少女
+- **Status:** Completed
+- **Progress:** 1
 - **Source:** anilist

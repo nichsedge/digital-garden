@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2016
 original_title: "食戟のソーマ 弍ノ皿"
+status: "Completed"
+progress: 13
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2016
 - **Original title:** 食戟のソーマ 弍ノ皿
+- **Status:** Completed
+- **Progress:** 13
 - **Source:** anilist

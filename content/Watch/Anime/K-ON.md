@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2010
 original_title: "けいおん!!"
+status: "Completed"
+progress: 26
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2010
 - **Original title:** けいおん!!
+- **Status:** Completed
+- **Progress:** 26
 - **Source:** anilist

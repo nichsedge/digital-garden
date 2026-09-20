@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2020
 original_title: "やはり俺の青春ラブコメはまちがっている。完"
+status: "Completed"
+progress: 12
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2020
 - **Original title:** やはり俺の青春ラブコメはまちがっている。完
+- **Status:** Completed
+- **Progress:** 12
 - **Source:** anilist

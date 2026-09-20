@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2014
 original_title: "ノーゲーム・ノーライフ"
+status: "Completed"
+progress: 12
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2014
 - **Original title:** ノーゲーム・ノーライフ
+- **Status:** Completed
+- **Progress:** 12
 - **Source:** anilist

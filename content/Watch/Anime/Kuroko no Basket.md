@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2012
 original_title: "黒子のバスケ"
+status: "Completed"
+progress: 25
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2012
 - **Original title:** 黒子のバスケ
+- **Status:** Completed
+- **Progress:** 25
 - **Source:** anilist

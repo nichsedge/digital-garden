@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2017
 original_title: "３月のライオン 第2シリーズ"
+status: "Completed"
+progress: 22
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2017
 - **Original title:** ３月のライオン 第2シリーズ
+- **Status:** Completed
+- **Progress:** 22
 - **Source:** anilist

@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2001
 original_title: "千と千尋の神隠し"
+status: "Completed"
+progress: 1
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2001
 - **Original title:** 千と千尋の神隠し
+- **Status:** Completed
+- **Progress:** 1
 - **Source:** anilist

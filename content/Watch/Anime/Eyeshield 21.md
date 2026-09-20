@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2005
 original_title: "アイシールド21"
+status: "Completed"
+progress: 145
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2005
 - **Original title:** アイシールド21
+- **Status:** Completed
+- **Progress:** 145
 - **Source:** anilist

@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2020
 original_title: "ハイキュー!! TO THE TOP 2"
+status: "Completed"
+progress: 12
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2020
 - **Original title:** ハイキュー!! TO THE TOP 2
+- **Status:** Completed
+- **Progress:** 12
 - **Source:** anilist

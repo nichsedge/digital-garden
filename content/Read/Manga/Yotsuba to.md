@@ -5,6 +5,7 @@ tags: [manga]
 publish_external: true
 year: 2003
 original_title: "よつばと！"
+status: "Plan to Read"
 source: "anilist"
 ---
 
@@ -12,4 +13,5 @@ source: "anilist"
 
 - **Year:** 2003
 - **Original title:** よつばと！
+- **Status:** Plan to Read
 - **Source:** anilist

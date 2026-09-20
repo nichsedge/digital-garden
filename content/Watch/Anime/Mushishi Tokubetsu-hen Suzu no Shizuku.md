@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2015
 original_title: "蟲師 特別編「鈴の雫」"
+status: "Completed"
+progress: 1
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2015
 - **Original title:** 蟲師 特別編「鈴の雫」
+- **Status:** Completed
+- **Progress:** 1
 - **Source:** anilist

@@ -5,6 +5,7 @@ tags: [manga]
 publish_external: true
 year: 2014
 original_title: "ぐらんぶる"
+status: "Completed"
 source: "anilist"
 ---
 
@@ -12,4 +13,5 @@ source: "anilist"
 
 - **Year:** 2014
 - **Original title:** ぐらんぶる
+- **Status:** Completed
 - **Source:** anilist

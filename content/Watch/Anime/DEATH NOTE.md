@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2006
 original_title: "DEATH NOTE"
+status: "Completed"
+progress: 37
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2006
 - **Original title:** DEATH NOTE
+- **Status:** Completed
+- **Progress:** 37
 - **Source:** anilist

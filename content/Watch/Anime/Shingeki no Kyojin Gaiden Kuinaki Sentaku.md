@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2015
 original_title: "進撃の巨人 外伝 悔いなき選択"
+status: "Completed"
+progress: 2
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2015
 - **Original title:** 進撃の巨人 外伝 悔いなき選択
+- **Status:** Completed
+- **Progress:** 2
 - **Source:** anilist

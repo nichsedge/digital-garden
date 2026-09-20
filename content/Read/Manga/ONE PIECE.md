@@ -5,6 +5,7 @@ tags: [manga]
 publish_external: true
 year: 1997
 original_title: "ONE PIECE"
+status: "Reading"
 source: "anilist"
 ---
 
@@ -12,4 +13,5 @@ source: "anilist"
 
 - **Year:** 1997
 - **Original title:** ONE PIECE
+- **Status:** Reading
 - **Source:** anilist

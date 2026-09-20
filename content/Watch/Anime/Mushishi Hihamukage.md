@@ -5,6 +5,7 @@ tags: [anime]
 publish_external: true
 year: 2014
 original_title: "蟲師 特別篇「日蝕む翳」"
+status: "Plan to Watch"
 source: "anilist"
 ---
 
@@ -12,4 +13,5 @@ source: "anilist"
 
 - **Year:** 2014
 - **Original title:** 蟲師 特別篇「日蝕む翳」
+- **Status:** Plan to Watch
 - **Source:** anilist

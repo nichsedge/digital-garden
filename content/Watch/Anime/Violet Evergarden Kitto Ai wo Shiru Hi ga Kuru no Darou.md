@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2018
 original_title: "ヴァイオレット・エヴァーガーデン きっと\"愛\"を知る日が来るのだろう"
+status: "Completed"
+progress: 1
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2018
 - **Original title:** ヴァイオレット・エヴァーガーデン きっと"愛"を知る日が来るのだろう
+- **Status:** Completed
+- **Progress:** 1
 - **Source:** anilist

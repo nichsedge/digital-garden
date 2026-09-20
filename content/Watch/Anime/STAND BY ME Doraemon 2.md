@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2020
 original_title: "STAND BY ME ドラえもん 2"
+status: "Completed"
+progress: 1
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2020
 - **Original title:** STAND BY ME ドラえもん 2
+- **Status:** Completed
+- **Progress:** 1
 - **Source:** anilist

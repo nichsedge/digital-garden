@@ -4,12 +4,12 @@ date: 2025-06-19
 tags: [book]
 publish_external: true
 author: "Agatha Christie"
-year: 2017
+year: 1934
 source: "hardcover"
 ---
 
 # Murder on the Orient Express
 
 - **Author:** Agatha Christie
-- **Year:** 2017
+- **Year:** 1934
 - **Source:** hardcover

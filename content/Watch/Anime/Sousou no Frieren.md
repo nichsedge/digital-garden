@@ -5,6 +5,9 @@ tags: [anime]
 publish_external: true
 year: 2023
 original_title: "葬送のフリーレン"
+status: "Completed"
+rating: 10
+progress: 28
 source: "anilist"
 ---
 
@@ -12,4 +15,7 @@ source: "anilist"
 
 - **Year:** 2023
 - **Original title:** 葬送のフリーレン
+- **Status:** Completed
+- **Rating:** 10
+- **Progress:** 28
 - **Source:** anilist

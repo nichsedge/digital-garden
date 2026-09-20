@@ -5,6 +5,7 @@ tags: [anime]
 publish_external: true
 year: 2022
 original_title: "モブサイコ100 Ⅲ"
+status: "Plan to Watch"
 source: "anilist"
 ---
 
@@ -12,4 +13,5 @@ source: "anilist"
 
 - **Year:** 2022
 - **Original title:** モブサイコ100 Ⅲ
+- **Status:** Plan to Watch
 - **Source:** anilist

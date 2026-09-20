@@ -5,6 +5,7 @@ tags: [manga]
 publish_external: true
 year: 2018
 original_title: "呪術廻戦"
+status: "Reading"
 source: "anilist"
 ---
 
@@ -12,4 +13,5 @@ source: "anilist"
 
 - **Year:** 2018
 - **Original title:** 呪術廻戦
+- **Status:** Reading
 - **Source:** anilist

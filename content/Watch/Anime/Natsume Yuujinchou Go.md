@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2016
 original_title: "夏目友人帳 伍"
+status: "Completed"
+progress: 11
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2016
 - **Original title:** 夏目友人帳 伍
+- **Status:** Completed
+- **Progress:** 11
 - **Source:** anilist

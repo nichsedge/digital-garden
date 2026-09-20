@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2020
 original_title: "劇場版 ヴァイオレット・エヴァーガーデン"
+status: "Completed"
+progress: 1
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2020
 - **Original title:** 劇場版 ヴァイオレット・エヴァーガーデン
+- **Status:** Completed
+- **Progress:** 1
 - **Source:** anilist

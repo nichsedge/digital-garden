@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2011
 original_title: "蛍火の杜へ"
+status: "Completed"
+progress: 1
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2011
 - **Original title:** 蛍火の杜へ
+- **Status:** Completed
+- **Progress:** 1
 - **Source:** anilist

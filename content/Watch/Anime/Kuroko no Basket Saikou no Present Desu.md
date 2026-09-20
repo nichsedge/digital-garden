@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2015
 original_title: "黒子のバスケ ~最高のプレゼントです~"
+status: "Completed"
+progress: 1
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2015
 - **Original title:** 黒子のバスケ ~最高のプレゼントです~
+- **Status:** Completed
+- **Progress:** 1
 - **Source:** anilist

@@ -5,6 +5,7 @@ tags: [anime]
 publish_external: true
 year: 2022
 original_title: "からかい上手の高木さん３"
+status: "Watching"
 source: "anilist"
 ---
 
@@ -12,4 +13,5 @@ source: "anilist"
 
 - **Year:** 2022
 - **Original title:** からかい上手の高木さん３
+- **Status:** Watching
 - **Source:** anilist

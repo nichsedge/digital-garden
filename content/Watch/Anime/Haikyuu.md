@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2014
 original_title: "ハイキュー!!"
+status: "Completed"
+progress: 25
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2014
 - **Original title:** ハイキュー!!
+- **Status:** Completed
+- **Progress:** 25
 - **Source:** anilist

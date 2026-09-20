@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2019
 original_title: "続・終物語"
+status: "Completed"
+progress: 6
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2019
 - **Original title:** 続・終物語
+- **Status:** Completed
+- **Progress:** 6
 - **Source:** anilist

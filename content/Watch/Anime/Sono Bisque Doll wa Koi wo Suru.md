@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2022
 original_title: "その着せ替え人形は恋をする"
+status: "Completed"
+progress: 12
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2022
 - **Original title:** その着せ替え人形は恋をする
+- **Status:** Completed
+- **Progress:** 12
 - **Source:** anilist

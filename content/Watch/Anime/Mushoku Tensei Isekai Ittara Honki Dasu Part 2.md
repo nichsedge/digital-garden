@@ -5,6 +5,9 @@ tags: [anime]
 publish_external: true
 year: 2021
 original_title: "無職転生 ～異世界行ったら本気だす～ 第2クール"
+status: "Completed"
+rating: 9
+progress: 12
 source: "anilist"
 ---
 
@@ -12,4 +15,7 @@ source: "anilist"
 
 - **Year:** 2021
 - **Original title:** 無職転生 ～異世界行ったら本気だす～ 第2クール
+- **Status:** Completed
+- **Rating:** 9
+- **Progress:** 12
 - **Source:** anilist

@@ -5,6 +5,9 @@ tags: [anime]
 publish_external: true
 year: 2012
 original_title: "中二病でも恋がしたい!"
+status: "Completed"
+rating: 6
+progress: 12
 source: "anilist"
 ---
 
@@ -12,4 +15,7 @@ source: "anilist"
 
 - **Year:** 2012
 - **Original title:** 中二病でも恋がしたい!
+- **Status:** Completed
+- **Rating:** 6
+- **Progress:** 12
 - **Source:** anilist

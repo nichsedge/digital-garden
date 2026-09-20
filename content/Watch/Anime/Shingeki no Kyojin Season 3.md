@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2018
 original_title: "進撃の巨人 Season３"
+status: "Completed"
+progress: 12
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2018
 - **Original title:** 進撃の巨人 Season３
+- **Status:** Completed
+- **Progress:** 12
 - **Source:** anilist

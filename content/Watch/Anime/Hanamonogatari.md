@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2014
 original_title: "花物語"
+status: "Completed"
+progress: 5
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2014
 - **Original title:** 花物語
+- **Status:** Completed
+- **Progress:** 5
 - **Source:** anilist

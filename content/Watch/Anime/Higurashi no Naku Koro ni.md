@@ -5,6 +5,7 @@ tags: [anime]
 publish_external: true
 year: 2006
 original_title: "ひぐらしのなく頃に"
+status: "Plan to Watch"
 source: "anilist"
 ---
 
@@ -12,4 +13,5 @@ source: "anilist"
 
 - **Year:** 2006
 - **Original title:** ひぐらしのなく頃に
+- **Status:** Plan to Watch
 - **Source:** anilist

@@ -5,6 +5,9 @@ tags: [anime]
 publish_external: true
 year: 2014
 original_title: "アオハライド"
+status: "Completed"
+rating: 8
+progress: 12
 source: "anilist"
 ---
 
@@ -12,4 +15,7 @@ source: "anilist"
 
 - **Year:** 2014
 - **Original title:** アオハライド
+- **Status:** Completed
+- **Rating:** 8
+- **Progress:** 12
 - **Source:** anilist

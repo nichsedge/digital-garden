@@ -5,6 +5,7 @@ tags: [anime]
 publish_external: true
 year: 2010
 original_title: "涼宮ハルヒの消失"
+status: "Plan to Watch"
 source: "anilist"
 ---
 
@@ -12,4 +13,5 @@ source: "anilist"
 
 - **Year:** 2010
 - **Original title:** 涼宮ハルヒの消失
+- **Status:** Plan to Watch
 - **Source:** anilist

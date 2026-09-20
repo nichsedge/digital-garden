@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2013
 original_title: "劇場版 シュタインズゲート 負荷領域のデジャヴ"
+status: "Completed"
+progress: 1
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2013
 - **Original title:** 劇場版 シュタインズゲート 負荷領域のデジャヴ
+- **Status:** Completed
+- **Progress:** 1
 - **Source:** anilist

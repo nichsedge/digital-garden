@@ -5,6 +5,8 @@ tags: [manga]
 publish_external: true
 year: 1989
 original_title: "ベルセルク"
+status: "Completed"
+rating: 9
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 1989
 - **Original title:** ベルセルク
+- **Status:** Completed
+- **Rating:** 9
 - **Source:** anilist

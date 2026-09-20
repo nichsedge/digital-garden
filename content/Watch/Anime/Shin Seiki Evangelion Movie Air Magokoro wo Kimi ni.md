@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 1997
 original_title: "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に"
+status: "Completed"
+progress: 1
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 1997
 - **Original title:** 新世紀エヴァンゲリオン劇場版 Air/まごころを、君に
+- **Status:** Completed
+- **Progress:** 1
 - **Source:** anilist

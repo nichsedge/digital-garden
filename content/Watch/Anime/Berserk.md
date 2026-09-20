@@ -5,6 +5,7 @@ tags: [anime]
 publish_external: true
 year: 2016
 original_title: "ベルセルク"
+status: "Dropped"
 source: "anilist"
 ---
 
@@ -12,4 +13,5 @@ source: "anilist"
 
 - **Year:** 2016
 - **Original title:** ベルセルク
+- **Status:** Dropped
 - **Source:** anilist

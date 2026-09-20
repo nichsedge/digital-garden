@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2018
 original_title: "青春ブタ野郎はバニーガール先輩の夢を見ない"
+status: "Completed"
+progress: 13
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2018
 - **Original title:** 青春ブタ野郎はバニーガール先輩の夢を見ない
+- **Status:** Completed
+- **Progress:** 13
 - **Source:** anilist

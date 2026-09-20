@@ -5,6 +5,8 @@ tags: [anime]
 publish_external: true
 year: 2023
 original_title: "やはり俺の青春ラブコメはまちがっている。完 「だから、思春期は終わらずに、青春は続いていく。」"
+status: "Plan to Watch"
+progress: 1
 source: "anilist"
 ---
 
@@ -12,4 +14,6 @@ source: "anilist"
 
 - **Year:** 2023
 - **Original title:** やはり俺の青春ラブコメはまちがっている。完 「だから、思春期は終わらずに、青春は続いていく。」
+- **Status:** Plan to Watch
+- **Progress:** 1
 - **Source:** anilist
